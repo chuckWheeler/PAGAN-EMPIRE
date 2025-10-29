@@ -26,7 +26,9 @@
    - ruch pionkiem wroga
        brak ruchu, cena 3, ruch x-1$, ruch t-2$, ruch *-3$
    - ruchy specjalne
-       brak ruchu 
+       brak ruchu, cena 3, umozliwia ruchy specjalne
    - blokowanie ruchu
+      brak ruchu, blokuje ruchy x,xx lub t,tt w cenie ruch t,x - 1$ ruch xx,tt - 2$
    - spalenie kart
+     usuwa dwie wybrane karty i sama siebie z gry cena 3
      
