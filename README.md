@@ -31,4 +31,4 @@
       brak ruchu, blokuje ruchy x,xx lub t,tt w cenie ruch t,x - 1$ ruch xx,tt - 2$
    - spalenie kart
      usuwa dwie wybrane karty i sama siebie z gry cena 3
-     
+5. cel nr 2 -> odwiedzenie wszystkich pol specjalnych
