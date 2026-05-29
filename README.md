@@ -31,7 +31,13 @@
       brak ruchu, blokuje ruchy x,xx lub t,tt w cenie ruch t,x - 1$ ruch xx,tt - 2$
    - spalenie kart
      usuwa dwie wybrane karty i sama siebie z gry cena 5
-5. Zadania:
+5. Rozpoczęcie
+   Każdy gracz ma na początku:
+   - 2 $
+   - odblokowane król, pionek T, pionek X
+   - Król i pionek T na planszy (wybudowane)
+   
+7. Zadania:
    - Posiadaj 10 złota
    - Odblokuj wszystkie figury (nie musisz wybudować)
    - Odblokuj wszystkie struktury (nie musisz wybudować)
