@@ -36,7 +36,8 @@
    - 2 $
    - odblokowane król, pionek T, pionek X
    - Król i pionek T na planszy (wybudowane)
-   
+6. Ruch
+   - Aby wziąć income, należy odrzucić 2 karty.
 7. Zadania:
    - Posiadaj 10 złota
    - Odblokuj wszystkie figury (nie musisz wybudować)
