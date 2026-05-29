@@ -1,4 +1,4 @@
-1. cel gry - dogonienie przeciwnego krola krolem
+1. cel gry - dogonienie przeciwnego krola krolem, lub spełnienie wszystkich 6 zadań. 
 2. plansza - okrag 4x4 pola specjalne na zewnatrz, pionki startowe (t) wewnatrz okregu, krole na rogach okregu
 3. karty:
    - 1x ruch krolem
