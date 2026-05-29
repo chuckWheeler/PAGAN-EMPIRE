@@ -36,3 +36,5 @@
    - Odblokuj wszystkie figury (nie musisz wybudować)
    - Odblokuj wszystkie struktury (nie musisz wybudować)
    - Zagraj kartę usuwającą karty z twojej talii
+   - Odwiedź oba pola specjalne (skarby)
+   - Spal własną figurę lub strukturę
