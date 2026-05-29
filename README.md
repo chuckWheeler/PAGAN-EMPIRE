@@ -30,7 +30,7 @@
    - blokowanie ruchu
       brak ruchu, blokuje ruchy x,xx lub t,tt w cenie ruch t,x - 1$ ruch xx,tt - 2$
    - spalenie kart
-     usuwa dwie wybrane karty i sama siebie z gry cena 3
+     usuwa dwie wybrane karty i sama siebie z gry cena 5
 5. Zadania:
    - Posiadaj 10 złota
    - Odblokuj wszystkie figury (nie musisz wybudować)
@@ -38,3 +38,5 @@
    - Zagraj kartę usuwającą karty z twojej talii
    - Odwiedź oba pola specjalne (skarby)
    - Spal własną figurę lub strukturę
+## Uzasadnienia
+1. Spalaneie kart jest drogie, bo jest rónież zadaniem. Jeżeli nie będzie zadaniem, zmniejszyć cenę do 3.
